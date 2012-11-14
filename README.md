@@ -5,7 +5,9 @@ Now with syntax support for ES6 via [JavaScriptNext](https://github.com/Benvie/J
 
 ## Design
 __ES6__
+
 ![enlightened ES6](http://vincentmac.github.com/enlightened/images/screenshots/ES6.png?v=7)
 
 __ES5__
+
 ![enlightened ES5](http://vincentmac.github.com/enlightened/images/screenshots/ES5.png?v=7)
