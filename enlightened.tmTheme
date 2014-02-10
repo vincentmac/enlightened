@@ -485,7 +485,7 @@
         <key>fontStyle</key>
         <string></string>
         <key>foreground</key>
-        <string>#c9ff73</string>
+        <string>#00dd81</string>
       </dict>
     </dict>
     <dict>
@@ -1606,7 +1606,7 @@
       <key>name</key>
       <string>Tag Attribute Class</string>
       <key>scope</key>
-      <string>entity.tag.any</string>
+      <string>meta.tag.any, entity.name.tag</string>
       <key>settings</key>
       <dict>
         <key>fontStyle</key>
