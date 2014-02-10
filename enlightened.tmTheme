@@ -479,7 +479,7 @@
       <key>name</key>
       <string>String Interpolation</string>
       <key>scope</key>
-      <string>meta.tag.attribute, string.interpolated</string>
+      <string>string.interpolated</string>
       <key>settings</key>
       <dict>
         <key>fontStyle</key>
@@ -1600,6 +1600,36 @@
         <string>#01fc47</string>
       </dict>
     </dict>
+
+    <!-- Jade-->
+    <dict>
+      <key>name</key>
+      <string>Tag Attribute Class</string>
+      <key>scope</key>
+      <string>meta.tag.attribute.class</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#00dd81</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Tag Attribute ID</string>
+      <key>scope</key>
+      <string>meta.tag.attribute.id</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#00dd81</string>
+      </dict>
+    </dict>
+    <!-- END Jade-->
+
 
   </array>
   <key>uuid</key>
