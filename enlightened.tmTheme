@@ -485,7 +485,6 @@
         <key>fontStyle</key>
         <string></string>
         <key>foreground</key>
-        <!-- <string>#00dd81</string> -->
         <string>#c9ff73</string>
       </dict>
     </dict>
@@ -1639,7 +1638,6 @@
         <key>fontStyle</key>
         <string></string>
         <key>foreground</key>
-        <!-- <string>#bc24da</string> -->
         <string>#da24cb</string>
       </dict>
     </dict>
