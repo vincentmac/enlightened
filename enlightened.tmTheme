@@ -485,7 +485,8 @@
         <key>fontStyle</key>
         <string></string>
         <key>foreground</key>
-        <string>#00dd81</string>
+        <!-- <string>#00dd81</string> -->
+        <string>#c9ff73</string>
       </dict>
     </dict>
     <dict>
@@ -1606,13 +1607,26 @@
       <key>name</key>
       <string>Tag Attribute Class</string>
       <key>scope</key>
+      <string>entity.tag.any</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#00d9dd</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Tag Attribute Class</string>
+      <key>scope</key>
       <string>meta.tag.attribute.class</string>
       <key>settings</key>
       <dict>
         <key>fontStyle</key>
         <string></string>
         <key>foreground</key>
-        <string>#00dd81</string>
+        <string>#2499da</string>
       </dict>
     </dict>
     <dict>
@@ -1625,7 +1639,8 @@
         <key>fontStyle</key>
         <string></string>
         <key>foreground</key>
-        <string>#00dd81</string>
+        <string>#bc24da</string>
+        <string>#da24cb</string>
       </dict>
     </dict>
     <!-- END Jade-->
