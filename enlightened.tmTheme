@@ -1639,7 +1639,7 @@
         <key>fontStyle</key>
         <string></string>
         <key>foreground</key>
-        <string>#bc24da</string>
+        <!-- <string>#bc24da</string> -->
         <string>#da24cb</string>
       </dict>
     </dict>
