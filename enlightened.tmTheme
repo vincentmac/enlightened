@@ -479,7 +479,7 @@
       <key>name</key>
       <string>String Interpolation</string>
       <key>scope</key>
-      <string>string.interpolated</string>
+      <string>string.interpolated, source.coffee.embedded.source</string>
       <key>settings</key>
       <dict>
         <key>fontStyle</key>
