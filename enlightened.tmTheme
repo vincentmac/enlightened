@@ -57,19 +57,6 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>meta.group.braces.curly</string>
-      <key>scope</key>
-      <string>meta.group.braces.curly</string>
-      <key>settings</key>
-      <dict>
-        <key>background</key>
-        <string>#FF44AA</string>
-        <key>foreground</key>
-        <string>#3399FF</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
       <string>bracket.square</string>
       <key>scope</key>
       <string>bracket.square</string>
